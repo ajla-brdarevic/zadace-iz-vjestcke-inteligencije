@@ -1,6 +1,6 @@
 # Zadaće iz predmeta Vještačka inteligencija - PTF UNZE SI II Ciklus I Semestar 2024/25
----
-## Simulirano kaljenje za generisanje rasporeda
+
+## Simulirano kaljenje za generisanje rasporeda [kreiranje_rasporeda_sa_algoritmom_simuliranog_kaljenja.ipynb](kreiranje_rasporeda_sa_algoritmom_simuliranog_kaljenja.ipynb)
 
 Ova Python skripta koristi algoritam simuliranog kaljenja za generisanje rasporeda predavanja i vježbi, minimizirajući broj konflikata u vezi sa vremenskim slotovima i dostupnim sobama.
 
