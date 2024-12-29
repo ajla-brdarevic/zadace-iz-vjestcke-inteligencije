@@ -21,4 +21,4 @@ U oba slučaja provjeriti koja će se donijeti odluka.
 
 ### [Drugi zadatak](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/zadatak_2.ipynb)
 Suad je u dilemi. Treba da stigne do fakulteta na vježbe iz "Vještačke inteligencije", ali kako je saobraćaj u Sarajevu nepredvidiv, često mu se dogodi da kasni. Kako bi izbjegao kašnjenje, pokušaće da koristi znanje iz prošlosti da predvidi da li treba da krene ranije nego obično. Napisao je situacije izprošlosti prikazane na slici 2.
-<img src="(https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika2.png)" alt="Slika 2" width="400">
+<img src="https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika2.png" alt="Slika 2" width="400">
