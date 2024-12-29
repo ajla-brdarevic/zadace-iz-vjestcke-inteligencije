@@ -17,8 +17,7 @@ Svjetska Banka želi da donese odluku o tome da li je novopredloženi projekat i
 - Na osnovu slučajeva iz prošlosti prikazani na slici 1 treba napraviti klasifikacioni model koristeći algoritam Naivnog Bajesa.
 - Istu tabelu iskoristiti i primjeniti stablo odlučivanja.
 U oba slučaja provjeriti koja će se donijeti odluka.
-<img src=\"[slika1.png\](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika1.png)" alt=\"Slika 1\" width=\"300\"/
-![Slika 1](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika1.png)
+<img src="https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika1.png" alt="Slika 1" width="400">
 
 ### [Drugi zadatak](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/zadatak_2.ipynb)
 Suad je u dilemi. Treba da stigne do fakulteta na vježbe iz "Vještačke inteligencije", ali kako je saobraćaj u Sarajevu nepredvidiv, često mu se dogodi da kasni. Kako bi izbjegao kašnjenje, pokušaće da koristi znanje iz prošlosti da predvidi da li treba da krene ranije nego obično. Napisao je situacije izprošlosti prikazane na slici 2.
