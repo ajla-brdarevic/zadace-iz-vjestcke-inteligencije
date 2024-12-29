@@ -17,6 +17,7 @@ Svjetska Banka želi da donese odluku o tome da li je novopredloženi projekat i
 - Na osnovu slučajeva iz prošlosti prikazani na slici 1 treba napraviti klasifikacioni model koristeći algoritam Naivnog Bajesa.
 - Istu tabelu iskoristiti i primjeniti stablo odlučivanja.
 U oba slučaja provjeriti koja će se donijeti odluka.
+<img src=\"[slika1.png\](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika1.png)" alt=\"Slika 1\" width=\"300\"/
 ![Slika 1](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika1.png)
 
 ### [Drugi zadatak](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/zadatak_2.ipynb)
