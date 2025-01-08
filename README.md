@@ -25,3 +25,11 @@ U oba slučaja provjeriti koja će se donijeti odluka.
 Suad je u dilemi. Treba da stigne do fakulteta na vježbe iz "Vještačke inteligencije", ali kako je saobraćaj u Sarajevu nepredvidiv, često mu se dogodi da kasni. Kako bi izbjegao kašnjenje, pokušaće da koristi znanje iz prošlosti da predvidi da li treba da krene ranije nego obično. Napisao je situacije iz prošlosti prikazane na slici 2.
 
 <img src="https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/2.%20zadaća/slika2.png" alt="Slika 2" width="400">
+
+## [3. zadaća: Predviđanje težine ribe](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/tree/main/3.%20zadaća)
+
+Cilj je analizirati, razumjeti i donijeti zaključke o mogućnosti predviđanja težine ribe. Razviti model koji predviđa težinu na osnovu drugih parametara (nasumično podijeliti podatke na setove za obuku, validaciju i testiranje).
+
+### Izrada zadatka
+
+U ovom zadatku se koristi linearna regresija za modeliranje odnosa između karakteristika (ulaznih podataka) i ciljne varijable. Podaci se dijele na trening, validacijski i testni skup, a zatim se evaluira model pomoću metrike MSE (srednja kvadratna pogreška) i R^2 (koeficijent determinacije). Na kraju, analiziraju se koeficijenti modela kako bi se odredio značaj svake karakteristike u predviđanju ciljne varijable.
