@@ -33,3 +33,10 @@ Cilj je analizirati, razumjeti i donijeti zaključke o mogućnosti predviđanja 
 ### Izrada zadatka
 
 U ovom zadatku se koristi linearna regresija za modeliranje odnosa između karakteristika (ulaznih podataka) i ciljne varijable. Podaci se dijele na trening, validacijski i testni skup, a zatim se evaluira model pomoću metrike MSE (srednja kvadratna pogreška) i R^2 (koeficijent determinacije). Na kraju, analiziraju se koeficijenti modela kako bi se odredio značaj svake karakteristike u predviđanju ciljne varijable.
+
+## [4. zadaća]
+[Zadatak br. 1 - Twitter Sentiment]
+Cilj je razviti model mašinskog učenja koji može predviđati sentiment na Twitteru koristeći dostupne skupove podataka za treniranje i testiranje.
+
+[Zadatak br. 2 - Toxic Comments]
+Cilj je pružiti rješenje za sljedeći zadatak na Kaggleu: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview
