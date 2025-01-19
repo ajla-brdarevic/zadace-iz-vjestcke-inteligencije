@@ -34,9 +34,9 @@ Cilj je analizirati, razumjeti i donijeti zaključke o mogućnosti predviđanja 
 
 U ovom zadatku se koristi linearna regresija za modeliranje odnosa između karakteristika (ulaznih podataka) i ciljne varijable. Podaci se dijele na trening, validacijski i testni skup, a zatim se evaluira model pomoću metrike MSE (srednja kvadratna pogreška) i R^2 (koeficijent determinacije). Na kraju, analiziraju se koeficijenti modela kako bi se odredio značaj svake karakteristike u predviđanju ciljne varijable.
 
-## [4. zadaća]
-[Zadatak br. 1 - Twitter Sentiment]
+## [4. zadaća](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/tree/main/4.%20zadaća)
+[Zadatak br. 1 - Twitter Sentiment](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/4.%20zadaća/zadatak1.ipynb)
 Cilj je razviti model mašinskog učenja koji može predviđati sentiment na Twitteru koristeći dostupne skupove podataka za treniranje i testiranje.
 
-[Zadatak br. 2 - Toxic Comments]
+[Zadatak br. 2 - Toxic Comments](https://github.com/ajla-brdarevic/zadace-iz-vjestcke-inteligencije/blob/main/4.%20zadaća/zadatak2.ipynb)
 Cilj je pružiti rješenje za sljedeći zadatak na Kaggleu: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/overview
